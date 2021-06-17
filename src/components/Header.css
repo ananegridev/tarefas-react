@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+.Header {
+  font-family: "Varela Round", sans-serif;
+  color: #f29191;
+
+  text-align: center;
+}
