@@ -6,7 +6,7 @@ Project developed for personal development and study purposes
 
 ## Overview 💡
 
-![img](https://github.com/ananegridev/tarefas-react/blob/main/public/design.PNG)
+![img](https://github.com/ananegridev/tarefas-react/blob/master/public/design.PNG)
 
 
 ## Tech 🖱️
